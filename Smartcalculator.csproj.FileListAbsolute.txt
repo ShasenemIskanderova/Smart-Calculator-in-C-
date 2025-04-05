@@ -1,0 +1,9 @@
+c:\users\sevara\documents\visual studio 2012\Projects\Smartcalculator\Smartcalculator\bin\Debug\Smartcalculator.exe.config
+c:\users\sevara\documents\visual studio 2012\Projects\Smartcalculator\Smartcalculator\bin\Debug\Smartcalculator.exe
+c:\users\sevara\documents\visual studio 2012\Projects\Smartcalculator\Smartcalculator\bin\Debug\Smartcalculator.pdb
+c:\users\sevara\documents\visual studio 2012\Projects\Smartcalculator\Smartcalculator\obj\Debug\Smartcalculator.csprojResolveAssemblyReference.cache
+c:\users\sevara\documents\visual studio 2012\Projects\Smartcalculator\Smartcalculator\obj\Debug\Smartcalculator.Form1.resources
+c:\users\sevara\documents\visual studio 2012\Projects\Smartcalculator\Smartcalculator\obj\Debug\Smartcalculator.Properties.Resources.resources
+c:\users\sevara\documents\visual studio 2012\Projects\Smartcalculator\Smartcalculator\obj\Debug\Smartcalculator.csproj.GenerateResource.Cache
+c:\users\sevara\documents\visual studio 2012\Projects\Smartcalculator\Smartcalculator\obj\Debug\Smartcalculator.exe
+c:\users\sevara\documents\visual studio 2012\Projects\Smartcalculator\Smartcalculator\obj\Debug\Smartcalculator.pdb
